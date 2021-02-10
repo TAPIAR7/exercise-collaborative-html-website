@@ -1,3 +1,11 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+
+.grayBackgroundColor{
+    background-color: lightgray;
+}
+
+.formPadding{
+    padding: 1em 20em 2em 20em !important;
 }
