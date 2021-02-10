@@ -1,3 +1,16 @@
 body{
     background: #BDBDBD;
 }
+
+.bakgroundContainer {
+        background-image: url(../img/bg.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 400px;
+}
+
+.header1 {
+    font-size: 100px;
+}
+
+
