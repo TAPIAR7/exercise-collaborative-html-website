@@ -8,16 +8,9 @@ body{
     padding: 1em 20em 2em 20em !important;
     background: #BDBDBD;
 }
-<<<<<<< HEAD
-#SecondHeader h1 p{ 
+#SecondHeader h1 p { 
     display:inline; 
 }
-
-=======
-#SecondHeader h1, p { 
-    display:inline; 
-}
->>>>>>> 6f2a53e8423817e2de60a70c1fd04f62bbbe3e97
 .bakgroundContainer {
         background-image: url(../img/bg.jpg);
         background-repeat: no-repeat;
