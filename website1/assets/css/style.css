@@ -1,3 +1,33 @@
 body{
-    background: #white;
+    background: white;
 }
+.grayBackgroundColor{
+    background-color: lightgray;
+}
+.formPadding{
+    padding: 1em 20em 2em 20em !important;
+    background: #BDBDBD;
+}
+#SecondHeader h1, p { 
+    display:inline; 
+}
+.bakgroundContainer {
+        background-image: url(../img/bg.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 400px;
+}
+.header1 {
+    font-size: 100px;
+}
+#WW{
+width: 200 px; height: 200px;
+border-radius: 100%;
+}
+#text {
+text-align: left;
+}
+.container {
+background: white;
+}
+
