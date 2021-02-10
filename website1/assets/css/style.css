@@ -10,11 +10,9 @@ body{
     padding: 1em 20em 2em 20em !important;
     background: #BDBDBD;
 }
-<<<<<<< HEAD
-#SecondHeader h1, p { 
+#SecondHeader h1 p{ 
     display:inline; 
 }
-=======
 
 .bakgroundContainer {
         background-image: url(../img/bg.jpg);
@@ -44,4 +42,3 @@ text-align: left;
 background: white;
 
 }
->>>>>>> c88239f06c58d5c1a545478b5dd3122b3b8dabf9
