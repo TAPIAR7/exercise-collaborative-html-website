@@ -30,7 +30,25 @@ text-align: left;
 .container {
 background: white;
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> 6f2a53e8423817e2de60a70c1fd04f62bbbe3e97
+ #texto-negro{
+color: black ;
+    font-size: 30px;
+    font-weight: bold;
+    opacity: 0.7;
+     display: inline;
+}
+
+#texto-gris{
+color: gray ;
+    font-size: 30px;
+    font-weight: bold;
+    opacity: 0.7;
+    display: inline;
+}
+
+.heading {
+
+    display: inline;
+}
+
