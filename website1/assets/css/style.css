@@ -8,7 +8,7 @@ body{
     margin-right: 5%;
     background-color: whitesmoke;
 }
-#SecondHeader h1 p { 
+.SecondHeader h1 p { 
     display:inline; 
 }
 .bakgroundContainer {
@@ -31,8 +31,6 @@ text-align: left;
 background: white;
 }
 
-<<<<<<< HEAD
-=======
  #texto-negro{
 color: black ;
     font-size: 30px;
@@ -54,4 +52,3 @@ color: gray ;
     display: inline;
 }
 
->>>>>>> e6dc51bed305b8e943d6754970abc961d4f4f968
