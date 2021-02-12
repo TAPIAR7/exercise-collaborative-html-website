@@ -31,3 +31,27 @@ text-align: left;
 background: white;
 }
 
+<<<<<<< HEAD
+=======
+ #texto-negro{
+color: black ;
+    font-size: 30px;
+    font-weight: bold;
+    opacity: 0.7;
+     display: inline;
+}
+
+#texto-gris{
+color: gray ;
+    font-size: 30px;
+    font-weight: bold;
+    opacity: 0.7;
+    display: inline;
+}
+
+.heading {
+
+    display: inline;
+}
+
+>>>>>>> e6dc51bed305b8e943d6754970abc961d4f4f968
